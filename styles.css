@@ -24,3 +24,9 @@ h1 {
     font-style: italic;
     color: #999;
 }
+
+#dog img {
+    background-color: #ddd;
+    height: 200px;
+    object-fit: contain;
+}
